@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/B2P22-RA2412704010022.iml" filepath="$PROJECT_DIR$/B2P22-RA2412704010022.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/Palindrom_Checker_App.iml" filepath="$PROJECT_DIR$/Palindrom_Checker_App.iml" />
+>>>>>>> 1f9a43e6cb081b4862fc2328b5ae56a4ffc93eb8
     </modules>
   </component>
 </project>

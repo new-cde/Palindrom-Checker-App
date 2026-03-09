@@ -2,6 +2,9 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+<<<<<<< HEAD
     <mapping directory="$PROJECT_DIR$/Palindrome_Checker_App" vcs="Git" />
+=======
+>>>>>>> 1f9a43e6cb081b4862fc2328b5ae56a4ffc93eb8
   </component>
 </project>
